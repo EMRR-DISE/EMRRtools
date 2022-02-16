@@ -4,8 +4,8 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Dave", "Bosworth", , "David.Bosworth@water.ca.gov", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-0740-3390"))
-Description: A suite of commonly-used functions to be used on work related
-    to DWR's Ecosystem Monitoring, Research, and Reporting Branch. We will
+Description: A suite of commonly-used R functions to be used on work related
+    to DWR's Ecosystem Monitoring, Research, and Reporting (EMRR) Branch. We will
     add to this description as we add functions to the package.
 License: Apache License (>= 2)
 URL: https://github.com/EMRR-DISE/EMRRtools
